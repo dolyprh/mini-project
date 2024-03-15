@@ -18,4 +18,5 @@ class Absen extends Model
         'start',
         'id_code',
     ];
+    
 }
